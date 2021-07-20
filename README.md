@@ -5,7 +5,7 @@ We are going to create simple TODO JavaScript/TypeScript web SPA application in 
 
 Application consists of several parts. 
 
-1) User authentication featuer - simply anyone can sign up with providing username and password. Respectively, users should be able to login in to view task list. 
+1) User authentication featuer - simply anyone can sign up with providing username and password. Respectively, users should be able to login to view their task list. 
 
 2) After login, on main page user should have a facility to make a basic CRUD operations over the task list. Users should have capability have to make CRUD operations on task list.
 	1. **view existing tasks**
